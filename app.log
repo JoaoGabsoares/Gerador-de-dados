@@ -1,0 +1,93 @@
+INFO - 1 - 2022-01-06 22:32:10,326
+INFO - 2 - 2022-01-06 22:32:11,282
+INFO - 3 - 2022-01-06 22:32:11,813
+INFO - 4 - 2022-01-06 22:32:12,285
+INFO - 5 - 2022-01-06 22:32:12,765
+INFO - 1  - 2022-01-06 22:38:00,206
+INFO - 1  - 2022-01-06 22:38:36,545
+INFO - 2  - 2022-01-06 22:38:37,151
+INFO - True - 2022-01-06 22:44:23,297
+INFO - 2 - 2022-01-06 22:44:53,472
+INFO - Marcos da Silva - 2022-01-06 22:46:27,163
+INFO - False - 2022-01-06 22:46:27,163
+INFO - 5521997849041 - 2022-01-06 22:46:32,299
+INFO - False - 2022-01-06 22:46:32,299
+INFO - sdap@hotmail.com - 2022-01-06 22:46:33,531
+INFO - False - 2022-01-06 22:46:33,531
+INFO - ['Carlos Augusto', 'Cristiane Monteiro', 'Enderson Carvalho', 'Marcos da Silva', 'André Pereira'] - 2022-01-06 22:47:28,957
+INFO - 1 - 2022-01-06 22:47:28,957
+INFO - 1 - 2022-01-06 22:47:47,996
+INFO - 1 - 2022-01-06 22:47:47,997
+INFO - 1 - 2022-01-06 22:47:49,901
+INFO - 1 - 2022-01-06 22:47:49,901
+INFO - 1 - 2022-01-06 22:47:50,940
+INFO - 1 - 2022-01-06 22:47:50,941
+INFO - Marcos da Silva - 2022-01-06 22:49:21,599
+INFO - 1 - 2022-01-06 22:49:21,600
+INFO - 5512994788974 - 2022-01-06 22:49:23,464
+INFO - 2 - 2022-01-06 22:49:23,465
+INFO - Bahia - 2022-01-06 22:49:53,821
+INFO - 5 - 2022-01-06 22:49:53,821
+INFO - O nome gerador foi {nomes} - 2022-01-06 22:52:35,204
+INFO - 1 - 2022-01-06 22:52:35,205
+INFO - O número gerado foi {numero_telefone} - 2022-01-06 22:52:36,485
+INFO - 2 - 2022-01-06 22:52:36,485
+INFO - O email gerado foi {emails} - 2022-01-06 22:52:37,315
+INFO - 3 - 2022-01-06 22:52:37,315
+INFO - A cidade gerada foi {cidades} - 2022-01-06 22:52:37,860
+INFO - 4 - 2022-01-06 22:52:37,860
+INFO - O estado gerado foi ['Rio de janeiro', 'São Paulo', 'Minas Gerais', 'Bahia', 'Rio Grande do Sul'] - 2022-01-06 22:52:38,283
+INFO - 5 - 2022-01-06 22:52:38,283
+INFO - O nome gerador foi None - 2022-01-06 22:55:05,053
+INFO - 1 - 2022-01-06 22:55:05,054
+INFO - O número gerado foi None - 2022-01-06 22:55:06,672
+INFO - 2 - 2022-01-06 22:55:06,672
+INFO - O email gerado foi None - 2022-01-06 22:55:07,431
+INFO - 3 - 2022-01-06 22:55:07,432
+INFO - A cidade gerada foi None - 2022-01-06 22:55:08,089
+INFO - 4 - 2022-01-06 22:55:08,089
+INFO - O estado gerado foi None - 2022-01-06 22:55:12,176
+INFO - 5 - 2022-01-06 22:55:12,176
+INFO - O nome gerador foi Cristiane Monteiro - 2022-01-06 22:55:54,481
+INFO - 1 - 2022-01-06 22:55:54,481
+INFO - O nome gerador foi André Pereira - 2022-01-06 22:56:44,236
+INFO - 1 - 2022-01-06 22:56:44,236
+INFO - O número gerado foi 5521997849041 - 2022-01-06 22:56:44,986
+INFO - 2 - 2022-01-06 22:56:44,986
+INFO - O email gerado foi asdasojo@hotmail.com - 2022-01-06 22:56:45,554
+INFO - 3 - 2022-01-06 22:56:45,555
+INFO - A cidade gerada foi Porto Alegre - 2022-01-06 22:56:46,035
+INFO - 4 - 2022-01-06 22:56:46,035
+INFO - O estado gerado foi São Paulo - 2022-01-06 22:56:46,458
+INFO - 5 - 2022-01-06 22:56:46,458
+INFO - O nome gerador foi Marcos da Silva - 2022-01-06 22:56:47,882
+INFO - O número gerado foi 5522994788950 - 2022-01-06 22:56:47,882
+INFO - 2 - 2022-01-06 22:56:47,882
+INFO - O nome gerador foi Carlos Augusto - 2022-01-06 22:56:50,643
+INFO - O número gerado foi 5523987975897 - 2022-01-06 22:56:50,643
+INFO - O email gerado foi skpz@gmail.com - 2022-01-06 22:56:50,643
+INFO - A cidade gerada foi Salvador - 2022-01-06 22:56:50,643
+INFO - 4 - 2022-01-06 22:56:50,644
+INFO - O nome gerador foi Cristiane Monteiro - 2022-01-06 22:56:53,436
+INFO - O número gerado foi 5521997849041 - 2022-01-06 22:56:53,436
+INFO - O email gerado foi asdasojo@hotmail.com - 2022-01-06 22:56:53,437
+INFO - A cidade gerada foi Rio de janeiro - 2022-01-06 22:56:53,438
+INFO - O estado gerado foi Minas Gerais - 2022-01-06 22:56:53,439
+INFO - 5 - 2022-01-06 22:56:53,440
+INFO - O nome gerador foi Carlos Augusto - 2022-01-06 22:58:22,174
+INFO - 1 - 2022-01-06 22:58:22,174
+INFO - O número gerado foi 5523987975897 - 2022-01-06 22:58:24,373
+INFO - 2 - 2022-01-06 22:58:24,373
+INFO - O email gerado foi sdap@hotmail.com - 2022-01-06 22:58:26,533
+INFO - 3 - 2022-01-06 22:58:26,534
+INFO - A cidade gerada foi Rio de janeiro - 2022-01-06 22:58:27,773
+INFO - 4 - 2022-01-06 22:58:27,774
+INFO - O estado gerado foi Minas Gerais - 2022-01-06 22:58:28,772
+INFO - 5 - 2022-01-06 22:58:28,775
+INFO - O programa foi finalizado - 2022-01-06 22:58:33,509
+INFO - O nome gerador foi Enderson Carvalho - 2022-01-06 23:01:48,474
+INFO - O número gerado foi 5522994788950 - 2022-01-06 23:01:50,193
+INFO - O email gerado foi Asdasdxcb@gmail.com - 2022-01-06 23:01:50,907
+INFO - O nome gerador foi Marcos da Silva - 2022-01-06 23:01:52,762
+INFO - O número gerado foi 5512994788974 - 2022-01-06 23:01:52,763
+INFO - O email gerado foi skpz@gmail.com - 2022-01-06 23:01:52,763

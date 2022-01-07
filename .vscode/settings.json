@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "[/caminho/para/meu/interpretador/python]",
+    "python.linting.pep8Enabled": true,
+    "python.formatting.provider": "autopep8"
+}
